@@ -36,11 +36,13 @@ x=3y=3
 #Program to find the solution for the given linear equations.
 #Developed by: Bhavankumar.P
 #RegisterNumber: 212225240026
+```
 import numpy as np
 a=np.array([[1,3],[2,5]])
 b=np.array([5,-3])
 solution=np.linalg.solve(a,b)
 print(solution)
+```
 
 
 ## Output:
