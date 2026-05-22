@@ -33,9 +33,9 @@ y=1
 x=3y=3
 
 ## program:
-#Program to find the solution for the given linear equations.
-#Developed by: Bhavankumar.P
-#RegisterNumber: 212225240026
+##$ Program to find the solution for the given linear equations.
+##  Developed by: Bhavankumar.P
+#   RegisterNumber: 212225240026
 ```
 import numpy as np
 a=np.array([[1,3],[2,5]])
